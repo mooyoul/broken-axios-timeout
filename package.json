@@ -1,0 +1,19 @@
+{
+  "name": "broken-axios-timeout",
+  "version": "1.0.0",
+  "description": "An example application to reproduce broken timeout handling of axios",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mooyoul/broken-axios-timeout.git"
+  },
+  "author": "MooYeol Prescott Lee <mooyoul@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mooyoul/broken-axios-timeout/issues"
+  },
+  "homepage": "https://github.com/mooyoul/broken-axios-timeout#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "debug": "^4.1.1"
+  }
+}
